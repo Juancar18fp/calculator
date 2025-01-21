@@ -1,7 +1,3 @@
-let number_one;
-let number_two;
-let operator;
-
 function operate(op, a, b) {
 	return op(a, b);
 }
